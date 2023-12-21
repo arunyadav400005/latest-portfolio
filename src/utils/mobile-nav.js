@@ -10,7 +10,7 @@ const mobileNav = () => {
             document.body.style.overflowY = 'hidden';
         }else{
             mobileNav.style.display = 'none';
-            document.body.style.overflowY = 'hidden';
+            document.body.style.overflowY = 'auto';
         }
 });
 mobileLinks.forEach(link => {
