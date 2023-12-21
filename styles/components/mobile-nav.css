@@ -11,12 +11,6 @@
   align-items: center;
   text-align: center;
 }
-.gg{
-  position: fixed;
-  top: 20;
-  right: 10;
-
-}
 
 .mobile-nav__menu {
   list-style: none;
